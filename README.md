@@ -1,4 +1,4 @@
-### 객체지향, 클린코드에 관심이 많은 백엔드 개발자 김태형 입니다.
+### UX 관점에서 생각하는 백엔드 개발자 김태형 입니다.
 #
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkxx_00)](https://solved.ac/kkkxx_00)
