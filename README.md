@@ -1,15 +1,21 @@
 ### UX 관점에서 생각하는 백엔드 개발자 김태형 입니다.
 #
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkxx_00)](https://solved.ac/kkkxx_00)
 
-# 📒 languages
+
+# 📒 Languages
 <a></a>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-# 📚 teck stack
+# 📚 Skills
+<h3>Frontend</h3>
+
+<a></a>
+<img src="https://img.shields.io/badge/vue3-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" />
+
+<h3>Backend</h3>
+
 <a></a>
 <img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=spring boot&logoColor=white" />
 <img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=spring security&logoColor=white" />
@@ -20,6 +26,10 @@
 
 # 📧 Concats
 <a><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+# 🌱 Coding Test
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkxx_00)](https://solved.ac/kkkxx_00)
 
 <!--
 **kingjaewon2000/kingjaewon2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
