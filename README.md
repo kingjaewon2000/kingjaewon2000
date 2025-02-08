@@ -1,46 +1,30 @@
-### UX 관점에서 생각하는 백엔드 개발자 김태형 입니다.
-
-
-# 📒 Languages
-<a></a>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-# 📚 Skills
-<h3>Frontend</h3>
-
-<a></a>
-<img src="https://img.shields.io/badge/vue3-4FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" />
-
-<h3>Backend</h3>
-
-<a></a>
-<img src="https://img.shields.io/badge/spring boot-6DB33F.svg?style=for-the-badge&logo=spring boot&logoColor=white" />
-<img src="https://img.shields.io/badge/spring data jpa-6DB33F.svg?style=for-the-badge&logo=spring security&logoColor=white" />
-<img src="https://img.shields.io/badge/spring security-6DB33F.svg?style=for-the-badge&logo=spring security&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-
-# 📧 Concats
-<a><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-# 🌱 Coding Test
-[![Solved.ac
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello,%20World&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 김태형 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:taehyeonggim44@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:taehyeonggim44@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F김태형%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkxx_00)](https://solved.ac/kkkxx_00)
-
-<!--
-**kingjaewon2000/kingjaewon2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </div>
+</div>
