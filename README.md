@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello,%20World&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 김태형 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 김태형 입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 문제를 해결하는걸 즐기는 백엔드 개발자 입니다.</div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
