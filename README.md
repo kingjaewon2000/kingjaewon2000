@@ -1,10 +1,10 @@
-## SKILL
+## SKILLS
 - Programming Languages: Java, Kotlin
 - Frameworks: Spring Boot, Spring Data JPA
 - Databases: MySQL, Redis
 - Tools: Git, Docker
 
-## PROJECT
+## PROJECTS
 ### 다담다
 작성중
 
